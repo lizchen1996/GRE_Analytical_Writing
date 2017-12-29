@@ -120,3 +120,37 @@ Governments should not fund any scientific research whose consequences are uncle
 Society should identify those children who have special talents and provide training for them at an early age to develop their talents.
 
 ### 038
+It is primarily through our identification with social groups that we define ourselves.
+
+### 039
+College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.
+
+### 040
+Claim: When planning courses, educators should take into account the interests and suggestions of their students.
+
+Reason: Students are more motivated to learn when they are interested in what they are studying.
+
+### 041
+The greatness of individuals can be decided only by those who live after them, not by their contemporaries.
+
+### 042
+Students should always question what they are taught instead of accepting it passively.
+
+### 043
+The increasingly rapid pace of life today causes more problems than it solves.
+
+### 044
+Claim: It is no longer possible for a society to regard any living man or woman as a hero.
+
+Reason: The reputation of anyone who is subjected to media scrutiny will eventually be diminished.
+
+### 045
+Competition for high grades seriously limits the quality of learning at all levels of education.
+
+### 046
+Universities should require every student to take a variety of courses outside the student's field of study.
+
+### 047
+Educators should find out what students want included in the curriculum and then offer it to them.
+
+### 048
