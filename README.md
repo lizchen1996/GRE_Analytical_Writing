@@ -154,3 +154,42 @@ Universities should require every student to take a variety of courses outside t
 Educators should find out what students want included in the curriculum and then offer it to them.
 
 ### 048
+Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.
+
+### 049
+Claim: We can usually learn much more from people whose views we share than from those whose views contradict our own.
+
+Reason: Disagreement can cause stress and inhibit learning.
+
+### 050
+Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve.
+
+### 051
+Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.
+
+### 052
+The best way to teach is to praise positive actions and ignore negative ones.
+
+### 053
+If a goal is worthy, then any means taken to attain it are justifiable.
+
+### 054
+In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature.
+
+### 055
+In order for any work of art—for example, a film, a novel, a poem, or a song—to have merit, it must be understandable to most people.
+
+### 056
+Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another.
+
+### 057
+The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.
+
+### 058
+Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone.
+
+### 059
+Scientists and other researchers should focus their research on areas that are likely to benefit the greatest number of people.
+
+### 060
+Politicians should pursue common ground and reasonable consensus rather than elusive ideals.
